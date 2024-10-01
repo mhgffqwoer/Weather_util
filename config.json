@@ -1,0 +1,6 @@
+{
+  "cities_list": ["Petersburg", "Moscow", "Tula"],
+  "update_frequency": 1, 
+  "count_days": 3
+}
+
